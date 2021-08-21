@@ -761,4 +761,3 @@ namespace TechInfoSystems.Data.SQLite
 		#endregion
 	}
 }
-//Y.ENDO
