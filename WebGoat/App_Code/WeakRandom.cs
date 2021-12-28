@@ -1,5 +1,5 @@
 using System;
-
+//TEST
 namespace OWASP.WebGoat.NET.App_Code
 {
     public class WeakRandom
