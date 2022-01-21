@@ -5,7 +5,7 @@ using System.Configuration.Provider;
 using System.Data;
 using Mono.Data.Sqlite;
 using System.Web.Security;
-//Comment out Y.Endo #1 #2 #3 #4 #5
+//Comment out Y.Endo #1 #2 #3 #4 #5 #6
 namespace TechInfoSystems.Data.SQLite
 {
 	/// <summary>
