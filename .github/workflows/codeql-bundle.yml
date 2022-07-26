@@ -15,7 +15,7 @@ jobs:
         uses: advanced-security/codeql-bundle-action@v1
         with:
           # CodeQL packs that are available in the current repository
-          packs: "octo-org/java-lib,octo-org/java-queries,octo-org/java-customizations"
+          packs: "octo-org/java-lib,octo-org/java-queries,octo-org/java-customizations,yuuki1967/my-java-custom-queries"
 
       - name: Bundle release
         env:
